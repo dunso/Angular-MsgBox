@@ -19,6 +19,7 @@
     "angular-bootstrap": "~0.13.3",
     "angular": "~1.4.4",
     "bootstrap": "~3.3.5",
-    "jquery": "~2.1.4"
+    "jquery": "~2.1.4",
+    "angular-msgbox": "^0.1.1"
   }
 }
